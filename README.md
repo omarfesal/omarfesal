@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**omarfesal/omarfesal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Omar Ghazi 👋
 
-Here are some ideas to get you started:
+ - 💬 **Ask me about:**  Java, OOP, React, Spring, Web, Restful API, Database, Clean Code, Design patterns, Unit/Integration Testing, Problem solving
+ - 📫 How to reach me: 
+     - [LinkedIn](https://www.linkedin.com/in/omarfesal/)
+     - [Stackoverflow](https://stackoverflow.com/users/9297322/omar-ghazi)
+	 - [Dev.to](https://dev.to/omarzi) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mohamed-taman/">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarfesal&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/mohamed-taman/">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarfesal&layout=compact&theme=radical&hide_border=false" />
+</a>
+	
