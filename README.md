@@ -7,7 +7,7 @@
      - [Stackoverflow](https://stackoverflow.com/users/9297322/omar-ghazi)
 	 - [Dev.to](https://dev.to/omarzi) 
 
-<a href="https://github.com/omarfeal/">
+<a href="https://github.com/omarfesal/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarfesal&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
 <a href="https://github.com/omarfesal/">
